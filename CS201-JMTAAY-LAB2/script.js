@@ -1,0 +1,11 @@
+let firstFavNum = 115;
+let secondFavNum = 125;
+console.log(firstFavNum>secondFavNum);
+console.log(firstFavNum>secondFavNum);
+console.log(firstFavNum>=secondFavNum);
+console.log(firstFavNum>=secondFavNum);
+console.log(firstFavNum === secondFavNum);
+console.log(firstFavNum == secondFavNum);
+console.log(firstFavNum !== secondFavNum);
+console.log(firstFavNum!=secondFavNum);
+console.log(power);
